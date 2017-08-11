@@ -23,7 +23,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "loopback-sdk-angular": "^3.0.0"
+    "loopback-sdk-angular": "git://github.com/RentoMojo/loopback-sdk-angular.git#deffba5d0de25b55b403b77fe705caf800135c3f"
   },
   "devDependencies": {
     "chai": "^1.9.1",
